@@ -6,5 +6,5 @@ Watch how performance improves as training progresses:
 
 | Episode    | Model             | Preview                                      | Video |
 |------------|-------------------|----------------------------------------------|-------|
-| Early      | Near-random       | <img src="src/early_sequest.png" width="120"/> | [▶ Watch](https://github.com/user-attachments/assets/3a6f57cf-4b71-418c-900a-15b87bb18d5a) |
-| Improved   | Emerging strategy | <img src="src/improved_seqquest.png" width="120"/> | [▶ Watch](https://github.com/user-attachments/assets/0cbe4b3c-b8fd-44b7-b985-5ed10d996094) |
+| Early      | Near-random       | <img src="src/early_seaquest.png" width="120"/> | [▶ Watch](https://github.com/user-attachments/assets/3a6f57cf-4b71-418c-900a-15b87bb18d5a) |
+| Improved   | Emerging strategy | <img src="src/improved_seaquest.png" width="120"/> | [▶ Watch](https://github.com/user-attachments/assets/0cbe4b3c-b8fd-44b7-b985-5ed10d996094) |
